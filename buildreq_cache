@@ -1,0 +1,7 @@
+1.4
+libxkbcommon-dev
+pkgconfig(cairo)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(wayland-client)
+pkgconfig(wayland-protocols)
+pkgconfig(xkbcommon)
